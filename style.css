@@ -1,0 +1,55 @@
+body {
+  background: linear-gradient(#ff9a9e, #fad0c4);
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  color: #fff;
+  padding: 20px;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+}
+
+button {
+  padding: 14px 30px;
+  border-radius: 30px;
+  border: none;
+  font-size: 18px;
+  margin: 15px;
+  cursor: pointer;
+}
+
+.photo {
+  width: 260px;
+  border-radius: 20px;
+  margin: 20px auto;
+}
+
+.btn-box {
+  margin-top: 30px;
+}
+
+.chat {
+  max-width: 300px;
+  margin: auto;
+}
+
+.msg {
+  padding: 12px;
+  border-radius: 20px;
+  margin: 10px;
+}
+
+.left {
+  background: #fff;
+  color: #000;
+  text-align: left;
+}
+
+.right {
+  background: #ff5e78;
+  text-align: right;
+}
